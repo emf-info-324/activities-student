@@ -1,0 +1,11 @@
+services:
+  node-server:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: node-server-image:v1
+    container_name: node-container
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./app/data:/app/data
