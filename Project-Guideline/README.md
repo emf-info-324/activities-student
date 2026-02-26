@@ -1,4 +1,4 @@
-# Project Guideline – Module 324
+<img width="875" height="597" alt="image" src="https://github.com/user-attachments/assets/ead1bbe3-9e7a-445e-9469-06c9b3c91ff4" /># Project Guideline – Module 324
 
 ## 1. Contexte du projet
 
@@ -70,10 +70,14 @@ La partie **déploiement continu (CD)** est soumise aux contraintes suivantes :
 La documentation sera contenue dans un fichier **README.md** et devra traiter les points suivants :
 
 - Introduction
-- Description des fonctionnalités implémentées
-- Mise en œuvre des processus **CI/CD**
-- Problèmes rencontrés
+- Description des fonctionnalités développées
+- User stories, Critères d'acceptation, MVP
+- Definition of done
+- Règles de linting intégrées
+- Processus de **CI/CD** avec un schéma de principe
+- Problèmes rencontrées et solutions apportées.
 - Conclusion
+  
 
 ---
 
