@@ -79,11 +79,15 @@ La documentation sera contenue dans un fichier **README.md** et devra traiter le
 
 ## 7. Présentation finale
 
-Au terme du module, chaque groupe réalisera une **présentation de 15 à 20 minutes** incluant :
+Au terme du module, chaque groupe réalisera une **présentation de 15 minutes + 5 min de démo** incluant :
 
-- Démo fonctionnelle
+- Description du projet
+- Découpage des tâches, MVP
 - Explication du workflow **CI/CD**
 - Retour d’expérience
+- Démo rapide des features + CI/CD (5min)
 
-Suite à cette présentation, **5 à 10 minutes** seront consacrées aux **questions des enseignants**.
+
+
+Suite à cette présentation, **5 minutes** seront consacrées aux **questions des enseignants**.
 
